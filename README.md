@@ -8,6 +8,9 @@
 
 # The module needed (to be installed) is pygame.
 
+Guides to play this game:
+1.grid with grey numbers in the beginning can't be changed; grid with black numbers means correct number, red means wrong number.
+2.all valid keys includes: (0 ~ 9) ----enter number; (del) --- empty a grid; (space) --- show the answer, this also means the end of game !!!
 The following is a screenshot of this sudoku game.
 
 
