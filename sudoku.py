@@ -3,6 +3,7 @@ import solver
 import time
 import copy
 import sys
+# it's not recommended to change any number if you don't understand the codes, most numbers are related to the size of interfaces, so change it might leads to a more ugly interface. 
 
 
 class SuDu:
