@@ -7,3 +7,8 @@
 3. solver.py is the file that contains functionality to solve a sudoku game.
 
 # The module needed (to be installed) is pygame.
+
+The following is a screenshot of this sudoku game.
+
+
+![sudoku](https://user-images.githubusercontent.com/54557154/142709696-bae1effe-9b6b-4c0f-bdc7-1db1f075f884.PNG)
