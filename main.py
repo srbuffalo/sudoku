@@ -1,6 +1,9 @@
 import sudoku
-
-
+'''
+Extension direction: 
+1.use database to store information of sudoku boards(needs to be collected or created before starting a game) and corresponding answers, so it doesn't need to create answer everytime the game was initialized;
+2.add functionality to create a random sudoku board, but in this case, it's pointless to store information in database, so this one will be slower that previous one.
+'''
 # easy one
 board = [
     [7, 8, 0, 4, 0, 0, 1, 2, 0],
