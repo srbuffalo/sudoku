@@ -1,5 +1,8 @@
 import sudoku
 '''
+Missing part:
+1.To create a game, user will have to choose a sudoku board manually, so right now an user can only play one game everytime he/she start a game;
+2.user will not be notified when he/she finish the game successfully, the only way to know is all grids should be filled with black numbers (red means error);  
 Extension direction: 
 1.use database to store information of sudoku boards(needs to be collected or created before starting a game) and corresponding answers, so it doesn't need to create answer everytime the game was initialized;
 2.add functionality to create a random sudoku board, but in this case, it's pointless to store information in database, so this one will be slower that previous one.
